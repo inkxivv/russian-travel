@@ -1,0 +1,4 @@
+.header__lang-switcher {
+    display: flex;
+    flex-direction: row;
+}
