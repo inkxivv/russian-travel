@@ -1,13 +1,11 @@
-.header__subtitle {
+.lead__subtitle {
     font-weight: 400;
     font-size: 30px;
     line-height: 36px;
     text-align: center;
 
-    color: #FFFFFF;
-
     max-width: 640px;
 
-    margin: 0;
-    padding: 0;
+    margin: 0 auto;
+    padding-bottom: 64px;
 }
