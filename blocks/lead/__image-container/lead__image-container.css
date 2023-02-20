@@ -1,3 +1,19 @@
 .lead__image-container {
-    margin: 0 auto;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .lead__image-container {
+        padding-left: 48px;
+        padding-right: 48px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image-container {
+        padding-left: 148px;
+        padding-right: 148px;
+    }
 }

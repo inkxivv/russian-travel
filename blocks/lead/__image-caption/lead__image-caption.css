@@ -1,9 +1,21 @@
 .lead__image-caption {
-    font-weight: 400;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
 
-    margin: 8px 0 0;
+    padding-left: 16px;
+    padding-top: 8px;
+}
+
+@media screen and (min-width: 768px){
+    .lead__image-caption {
+        padding-left: 24px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .lead__image-caption {
+        padding-left: 0;
+    }
 }
