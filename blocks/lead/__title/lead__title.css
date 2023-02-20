@@ -10,3 +10,15 @@
     padding-bottom: 32px;
     padding-top: 56px;
 }
+
+@media screen and (max-width: 780px){
+    .lead__title {
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 44px;
+        text-align: center;
+
+        max-width: 288px;
+        padding: 48px 16px 16px;
+    }
+}
