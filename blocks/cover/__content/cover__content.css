@@ -9,13 +9,13 @@
     background: url("../../../images/cover-trains.jpg") no-repeat center;
     background-size: cover;
 
+    color: #FFFFFF;
+    text-decoration: none;
+
     width: 100%;
     min-height: 57.9vw;
 
     margin: 0 auto;
-
-    color: #FFFFFF;
-    text-decoration: none;
 }
 
 .cover__content::after {
