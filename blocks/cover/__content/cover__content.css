@@ -32,4 +32,5 @@
 
 .cover__content:hover::after {
     opacity: 0.8;
+    transition: 400ms;
 }
