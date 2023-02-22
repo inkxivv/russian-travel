@@ -13,7 +13,7 @@
     text-decoration: none;
 
     width: 100%;
-    min-height: 57.9vw;
+    min-height: 62.5vw;
 
     margin: 0 auto;
 }
@@ -37,6 +37,7 @@
 
 @media screen and (min-width: 1280px){
     .cover__content {
-        min-height: 720px;
+        min-height: 740px;
+        max-width: 1184px;
     }
 }
