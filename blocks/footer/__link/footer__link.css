@@ -7,11 +7,11 @@
     text-decoration: none;
 
     max-width: fit-content;
+    transition: 400ms;
 }
 
 .footer__link:hover {
     opacity: 0.8;
-    transition: 400ms;
 }
 
 @media screen and (min-width: 768px) {
