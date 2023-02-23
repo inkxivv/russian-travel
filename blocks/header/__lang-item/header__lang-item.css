@@ -4,10 +4,19 @@
     line-height: 20px;
 
     margin: 0;
+
+    transition: 400ms;
+
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 .header__lang-item:first-of-type {
     margin-right: 18px;
+}
+
+.header__lang-item:hover {
+    opacity: 0.8;
 }
 
 @media screen and (min-width: 768px) {

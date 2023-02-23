@@ -27,12 +27,12 @@
     bottom: 0;
 
     background-color: #2A2C2F;
+    transition: 400ms;
     opacity: 0.3;
 }
 
 .cover__content:hover::after {
     opacity: 0.8;
-    transition: 400ms;
 }
 
 @media screen and (min-width: 1280px){

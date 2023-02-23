@@ -5,6 +5,8 @@
 
     color: #FFFFFF;
     text-decoration: none;
+
+    max-width: fit-content;
 }
 
 .footer__link:hover {

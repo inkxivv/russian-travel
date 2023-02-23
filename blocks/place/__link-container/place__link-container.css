@@ -1,3 +1,5 @@
 .place__link-container {
+    display: flex;
+    flex-direction: column;
     align-self: end;
 }
